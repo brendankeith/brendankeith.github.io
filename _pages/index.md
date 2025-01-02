@@ -29,15 +29,12 @@ Before that, I was a Ph.D. student at the <a href="https://www.oden.utexas.edu/"
 
 # <span style="color:red">In The News!</span>
 
-I was recently selected as one of Popular Science's <a href="https://www.popsci.com/science/brilliant-10-2023/">"Brilliant 10"</a> early career researchers
+I was selected as one of Popular Science's <a href="https://www.popsci.com/science/brilliant-10-2023/">"Brilliant 10"</a> early career researchers of 2023
 
 ## Current Research Funding
-**DOE SC Early Career Research Program&nbsp;&nbsp;2024&ndash;2028**&nbsp;&nbsp; REASON-3D: Randomized, Entropic, Adaptive, and Scalable Optimization for Non-Intrusive Data-Driven Design
-\
-**OVPR Seed Award (Brown Internal)&nbsp;&nbsp;2023**&nbsp;&nbsp; Data-Driven High-Order Accurate Fail-Safe Neural Topology Optimization for Plastic Deformation and Fracture
-\
-**LLNL LDRD&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization
-<!-- (PI, *$450,000/year*) -->
+**DOE SC Early Career Research Program&nbsp;&nbsp;2023&ndash;2028**&nbsp;&nbsp; REASON-3D: Randomized, Entropic, Adaptive, and Scalable Optimization for Non-Intrusive Data-Driven Design
+
+**NSF Computational and Data-Enabled Science and Engineering&nbsp;&nbsp;2024&ndash;2027**&nbsp;&nbsp; Data-Driven Discovery of Neural ODE Dynamics, Astrophysical Models, and Orbits (Neural ODE DynAMO)
 
 ### Other notes:
 - I'm an active [MFEM](https://mfem.org/) developer. Check out our (growing) list of examples codes and miniapps [here](https://mfem.org/examples/).
