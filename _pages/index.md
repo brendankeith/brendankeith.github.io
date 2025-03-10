@@ -32,7 +32,7 @@ Before that, I was a Ph.D. student at the <a href="https://www.oden.utexas.edu/"
 I was selected as one of Popular Science's <a href="https://www.popsci.com/science/brilliant-10-2023/">"Brilliant 10"</a> early career researchers of 2023
 
 ## Current Research Funding
-**A.P. Sloan Fellowship in Mathematics&nbsp;&nbsp;2025&ndash;2026**&nbsp;&nbsp;
+**A.P. Sloan Research Fellowship in Mathematics&nbsp;&nbsp;2025&ndash;2026**&nbsp;&nbsp;
 
 **DOE SC Early Career Research Program&nbsp;&nbsp;2023&ndash;2028**&nbsp;&nbsp; REASON-3D: Randomized, Entropic, Adaptive, and Scalable Optimization for Non-Intrusive Data-Driven Design
 
