@@ -19,19 +19,20 @@ I work on numerical methods for partial differential equations (PDEs), scientifi
 *See <a href="https://www.llnl.gov/news/llnl-led-team-uses-machine-learning-derive-black-hole-motion-gravitational-waves" style="color:black">this press release</a> about my work on machine learning and black holes!*
 
 <p style="text-align: justify">
-<b> Short Bio: </b> Before coming to Brown, I was a postdoctoral researcher at the <a href="https://computing.llnl.gov/casc" style="color:black">Center for Applied Scientific Computing</a> at Lawrence Livermore National Laboratory.
-<!-- where I am leading a three-year research project on PDE-constrained stochastic optimization methods for risk-averse engineering design. -->
-Before that, I was a postdoc at the <a href="https://icerm.brown.edu/" style="color:black">Institute for Computational and Experimental Research in Mathematics</a>.
-Before that, I was a postdoc at the Chair of Numerical Analysis at the Technical University of Munich, where I was supervised by <a href="http://www.professoren.tum.de/en/wohlmuth-barbara/" style="color:black">Barbara Wohlmuth</a>.
-Before that, I was a Ph.D. student at the <a href="https://www.oden.utexas.edu/" style="color:black">Oden Institute for Computational Engineering & Sciences</a>, where I was supervised by <a href="https://users.oden.utexas.edu/~leszek/" style="color:black">Leszek Demkowicz</a>.
+<b> Short Bio: </b> Before joining Brown, I was a postdoctoral researcher at the <a href="https://computing.llnl.gov/casc" style="color:black">Center for Applied Scientific Computing</a> at Lawrence Livermore National Laboratory.
+Before that, I held postdoctoral positions at the  <a href="https://icerm.brown.edu/" style="color:black">Institute for Computational and Experimental Research in Mathematics</a> and at the Chair of Numerical Analysis at the Technical University of Munich, where I worked under the supervision of <a href="http://www.professoren.tum.de/en/wohlmuth-barbara/" style="color:black">Barbara Wohlmuth</a>.
+I completed my Ph.D. at the <a href="https://www.oden.utexas.edu/" style="color:black">Oden Institute for Computational Engineering & Sciences</a>, where I was supervised by <a href="https://users.oden.utexas.edu/~leszek/" style="color:black">Leszek Demkowicz</a>.
 </p>
+
 
 
 # <span style="color:red">In The News!</span>
 
 I was selected as one of Popular Science's <a href="https://www.popsci.com/science/brilliant-10-2023/">"Brilliant 10"</a> early career researchers of 2023
 
-## Current Research Funding
+## Current Research Funding As Lead PI
+**NNSA PSAAP IV Focused Investigatory Center&nbsp;&nbsp;2025&ndash;2030**&nbsp;&nbsp; The Center for Information Geometric Mechanics and Optimization (CIGMO)
+
 **A.P. Sloan Research Fellowship in Mathematics&nbsp;&nbsp;2025&ndash;2026**&nbsp;&nbsp;
 
 **DOE SC Early Career Research Program&nbsp;&nbsp;2023&ndash;2028**&nbsp;&nbsp; REASON-3D: Randomized, Entropic, Adaptive, and Scalable Optimization for Non-Intrusive Data-Driven Design
@@ -40,4 +41,4 @@ I was selected as one of Popular Science's <a href="https://www.popsci.com/scien
 
 ### Other notes:
 - I'm an active [MFEM](https://mfem.org/) developer. Check out our (growing) list of examples codes and miniapps [here](https://mfem.org/examples/).
-- This website has been tidied up a little bit. If you are interested in my old finite element work (2015-2020), short summaries can be found [here](/research/).
+- This website has been tidied up a little bit. If you are interested in my early finite element work (2015-2020), short summaries can be found [here](/research/).
