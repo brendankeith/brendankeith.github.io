@@ -22,3 +22,32 @@ html {
     font-size: 20px; // change to whatever
   }
 }
+// BibTeX toggles on /publications/ (styled after tomoleary.github.io)
+.bibtex-toggle {
+  color: $text-color;
+  white-space: nowrap;
+}
+
+.bibtex-toggle span {
+  color: $link-color;
+  text-decoration: underline;
+}
+
+.bibtex-row > td {
+  padding-top: 0;
+}
+
+.bibtex-panel pre,
+.bibtex-panel .highlight,
+.bibtex-panel code {
+  font-size: 0.68rem;
+  line-height: 1.35;
+}
+
+.bibtex-panel pre,
+.bibtex-panel .highlight {
+  display: block;
+  margin: 0.25rem 0 0.5rem;
+  white-space: pre;
+  overflow-x: auto;
+}
