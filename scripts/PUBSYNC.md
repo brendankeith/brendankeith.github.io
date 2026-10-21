@@ -53,6 +53,9 @@ Keep the `[BibTeX]` toggle at the end of the cell, and replace the paper's `@mis
 `_data/bibtex.yml` with an `@article` built from the Crossref record (section 4). Keep the
 same key unless the year changed; if it did, rename the key in both files.
 
+The year is that of the printed volume; for online-first papers with no volume yet, use the
+online year and update it once the volume appears.
+
 Accepted-but-not-yet-online papers use `<Journal> (to appear, <year>)` and get the DOI later.
 Keep any existing `[[code]]` links.
 
