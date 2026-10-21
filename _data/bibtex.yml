@@ -1,0 +1,547 @@
+# BibTeX entries for /publications/, keyed by the data-bibtex id used on that page.
+# Generated from Crossref / arXiv metadata; edit freely.
+
+keith2026analysis: |
+  @misc{keith2026analysis,
+    title={Analysis of {Bregman} Proximal Point for the Obstacle Problem},
+    author={Keith, Brendan and Qin, Haojun and Rivas, Noe Reyes},
+    year={2026},
+    eprint={2609.23007},
+    archivePrefix={arXiv},
+    primaryClass={math.AP},
+    doi={10.48550/arXiv.2609.23007},
+    url={https://arxiv.org/abs/2609.23007}
+  }
+
+asness2026exponential: |
+  @misc{asness2026exponential,
+    title={Exponential Adaptive Smoothing and Importance Sampling for Optimization of the Conditional Value-at-Risk},
+    author={Asness, Will and Keith, Brendan and Lazarov, Boyan and Malandii, Anton and Uryasev, Stan},
+    year={2026},
+    eprint={2606.11515},
+    archivePrefix={arXiv},
+    primaryClass={math.OC},
+    doi={10.48550/arXiv.2606.11515},
+    url={https://arxiv.org/abs/2606.11515}
+  }
+
+gangl2026simpl: |
+  @misc{gangl2026simpl,
+    title={The {SiMPL} Method for Multi-Material Topology Optimization},
+    author={Gangl, Peter and Keith, Brendan and Kim, Dohyun and Lazarov, Boyan S. and Surowiec, Thomas M.},
+    year={2026},
+    eprint={2605.11994},
+    archivePrefix={arXiv},
+    primaryClass={math.NA},
+    doi={10.48550/arXiv.2605.11994},
+    url={https://arxiv.org/abs/2605.11994}
+  }
+
+keith2026proximal: |
+  @misc{keith2026proximal,
+    title={Proximal {Galerkin} for the isometry constraint},
+    author={Keith, Brendan and Marazzato, Fr{\'e}d{\'e}ric},
+    year={2026},
+    eprint={2605.07054},
+    archivePrefix={arXiv},
+    primaryClass={math.NA},
+    doi={10.48550/arXiv.2605.07054},
+    url={https://arxiv.org/abs/2605.07054}
+  }
+
+castillon2026proximal: |
+  @misc{castillon2026proximal,
+    title={Proximal {Galerkin} for Phase Field Fracture},
+    author={Castill{\'o}n, Miguel and Khara, Biswajit and Dokken, J{\o}rgen S. and Surowiec, Thomas M. and Keith, Brendan and Bazilevs, Yuri},
+    year={2026},
+    eprint={2604.26210},
+    archivePrefix={arXiv},
+    primaryClass={math.NA},
+    doi={10.48550/arXiv.2604.26210},
+    url={https://arxiv.org/abs/2604.26210}
+  }
+
+ern2026proximal: |
+  @misc{ern2026proximal,
+    title={Proximal Discontinuous {Galerkin} Methods for Variational Inequalities},
+    author={Ern, Alexandre and Keith, Brendan and Kim, Dohyun and Masri, Rami and Riviere, Beatrice},
+    year={2026},
+    eprint={2604.19708},
+    archivePrefix={arXiv},
+    primaryClass={math.NA},
+    doi={10.48550/arXiv.2604.19708},
+    url={https://arxiv.org/abs/2604.19708}
+  }
+
+fu2026proximal: |
+  @misc{fu2026proximal,
+    title={The proximal {Galerkin} method for non-symmetric variational inequalities},
+    author={Fu, Guosheng and Keith, Brendan and Kim, Dohyun and Masri, Rami and Pazner, Will},
+    year={2026},
+    eprint={2602.14967},
+    archivePrefix={arXiv},
+    primaryClass={math.NA},
+    doi={10.48550/arXiv.2602.14967},
+    url={https://arxiv.org/abs/2602.14967}
+  }
+
+keith2025priori: |
+  @misc{keith2025priori,
+    title={A priori error analysis of the proximal {Galerkin} method},
+    author={Keith, Brendan and Masri, Rami and Zeinhofer, Marius},
+    year={2025},
+    eprint={2507.13516},
+    archivePrefix={arXiv},
+    primaryClass={math.NA},
+    doi={10.48550/arXiv.2507.13516},
+    url={https://arxiv.org/abs/2507.13516}
+  }
+
+fu2026locally: |
+  @article{fu2026locally,
+    title={A locally-conservative proximal {Galerkin} method for pointwise bound constraints},
+    author={Fu, Guosheng and Keith, Brendan and Masri, Rami},
+    journal={Mathematics of Computation},
+    year={2026},
+    doi={10.1090/mcom/4218},
+    url={https://doi.org/10.1090/mcom/4218}
+  }
+
+sentz2026learning: |
+  @article{sentz2026learning,
+    title={Learning thermodynamic master equations for open quantum systems},
+    author={Sentz, Peter and Nicholson, Stanley and Cho, Yujin and Reddy, Sohail and Keith, Brendan and G{\"u}nther, Stefanie},
+    journal={Quantum},
+    volume={10},
+    pages={2151},
+    year={2026},
+    doi={10.22331/q-2026-07-01-2151},
+    url={https://doi.org/10.22331/q-2026-07-01-2151}
+  }
+
+dokken2025latent: |
+  @article{dokken2025latent,
+    title={The latent variable proximal point algorithm for variational problems with inequality constraints},
+    author={Dokken, J{\o}rgen S. and Farrell, Patrick E. and Keith, Brendan and Papadopoulos, Ioannis P. A. and Surowiec, Thomas M.},
+    journal={Computer Methods in Applied Mechanics and Engineering},
+    volume={445},
+    pages={118181},
+    year={2025},
+    doi={10.1016/j.cma.2025.118181},
+    url={https://doi.org/10.1016/j.cma.2025.118181}
+  }
+
+keith2025analysis: |
+  @article{keith2025analysis,
+    title={Analysis of the {SiMPL} Method for Density-Based Topology Optimization},
+    author={Keith, Brendan and Kim, Dohyun and Lazarov, Boyan S. and Surowiec, Thomas M.},
+    journal={SIAM Journal on Optimization},
+    volume={35},
+    number={2},
+    pages={1134--1164},
+    year={2025},
+    doi={10.1137/24M1708863},
+    url={https://doi.org/10.1137/24M1708863}
+  }
+
+kim2025simple: |
+  @article{kim2025simple,
+    title={A simple introduction to the {SiMPL} method for density-based topology optimization},
+    author={Kim, Dohyun and Lazarov, Boyan S. and Surowiec, Thomas M. and Keith, Brendan},
+    journal={Structural and Multidisciplinary Optimization},
+    volume={68},
+    number={4},
+    pages={74},
+    year={2025},
+    doi={10.1007/s00158-025-04008-9},
+    url={https://doi.org/10.1007/s00158-025-04008-9}
+  }
+
+keith2026proximalgalerkin: |
+  @article{keith2026proximalgalerkin,
+    title={Proximal {Galerkin}: A Structure-Preserving Finite Element Method for Pointwise Bound Constraints},
+    author={Keith, Brendan and Surowiec, Thomas M.},
+    journal={Foundations of Computational Mathematics},
+    volume={26},
+    number={1},
+    pages={385--481},
+    year={2026},
+    doi={10.1007/s10208-024-09681-8},
+    url={https://doi.org/10.1007/s10208-024-09681-8}
+  }
+
+duswald2024finite: |
+  @article{duswald2024finite,
+    title={Finite elements for {Mat{\'e}rn}-type random fields: Uncertainty in computational mechanics and design optimization},
+    author={Duswald, Tobias and Keith, Brendan and Lazarov, Boyan and Petrides, Socratis and Wohlmuth, Barbara},
+    journal={Computer Methods in Applied Mechanics and Engineering},
+    volume={429},
+    pages={117146},
+    year={2024},
+    doi={10.1016/j.cma.2024.117146},
+    url={https://doi.org/10.1016/j.cma.2024.117146}
+  }
+
+andrej2024high: |
+  @article{andrej2024high,
+    title={High-performance finite elements with {MFEM}},
+    author={Andrej, Julian and Atallah, Nabil and B{\"a}cker, Jan-Phillip and Camier, Jean-Sylvain and Copeland, Dylan and Dobrev, Veselin and Dudouit, Yohann and Duswald, Tobias and Keith, Brendan and Kim, Dohyun and Kolev, Tzanio and Lazarov, Boyan and Mittal, Ketan and Pazner, Will and Petrides, Socratis and Shiraiwa, Syun'ichi and Stowell, Mark and Tomov, Vladimir},
+    journal={The International Journal of High Performance Computing Applications},
+    volume={38},
+    number={5},
+    pages={447--467},
+    year={2024},
+    doi={10.1177/10943420241261981},
+    url={https://doi.org/10.1177/10943420241261981}
+  }
+
+dzanic2024dynamo: |
+  @article{dzanic2024dynamo,
+    title={{DynAMO}: Multi-agent reinforcement learning for dynamic anticipatory mesh optimization with applications to hyperbolic conservation laws},
+    author={Dzanic, Tarik and Mittal, Ketan and Kim, Dohyun and Yang, Jiachen and Petrides, Socratis and Keith, Brendan and Anderson, Robert},
+    journal={Journal of Computational Physics},
+    volume={506},
+    pages={112924},
+    year={2024},
+    doi={10.1016/j.jcp.2024.112924},
+    url={https://doi.org/10.1016/j.jcp.2024.112924}
+  }
+
+gillette2024learning: |
+  @article{gillette2024learning,
+    title={Learning Robust Marking Policies for Adaptive Mesh Refinement},
+    author={Gillette, Andrew and Keith, Brendan and Petrides, Socratis},
+    journal={SIAM Journal on Scientific Computing},
+    volume={46},
+    number={1},
+    pages={A264--A289},
+    year={2024},
+    doi={10.1137/22M1510613},
+    url={https://doi.org/10.1137/22M1510613}
+  }
+
+bollapragada2023adaptive: |
+  @article{bollapragada2023adaptive,
+    title={An adaptive sampling augmented {Lagrangian} method for stochastic optimization with deterministic constraints},
+    author={Bollapragada, Raghu and Karamanli, Cem and Keith, Brendan and Lazarov, Boyan and Petrides, Socratis and Wang, Jingyi},
+    journal={Computers \& Mathematics with Applications},
+    volume={149},
+    pages={239--258},
+    year={2023},
+    doi={10.1016/j.camwa.2023.09.014},
+    url={https://doi.org/10.1016/j.camwa.2023.09.014}
+  }
+
+beiser2023adaptive: |
+  @article{beiser2023adaptive,
+    title={Adaptive sampling strategies for risk-averse stochastic optimization with constraints},
+    author={Beiser, Florian and Keith, Brendan and Urbainczyk, Simon and Wohlmuth, Barbara},
+    journal={IMA Journal of Numerical Analysis},
+    volume={43},
+    number={6},
+    pages={3729--3765},
+    year={2023},
+    doi={10.1093/imanum/drac083},
+    url={https://doi.org/10.1093/imanum/drac083}
+  }
+
+kodakkal2022risk: |
+  @article{kodakkal2022risk,
+    title={Risk-averse design of tall buildings for uncertain wind conditions},
+    author={Kodakkal, Anoop and Keith, Brendan and Khristenko, Ustim and Apostolatos, Andreas and Bletzinger, Kai-Uwe and Wohlmuth, Barbara and W{\"u}chner, Roland},
+    journal={Computer Methods in Applied Mechanics and Engineering},
+    volume={402},
+    pages={115371},
+    year={2022},
+    doi={10.1016/j.cma.2022.115371},
+    url={https://doi.org/10.1016/j.cma.2022.115371}
+  }
+
+keith2021learning: |
+  @article{keith2021learning,
+    title={Learning orbital dynamics of binary black hole systems from gravitational wave measurements},
+    author={Keith, Brendan and Khadse, Akshay and Field, Scott E.},
+    journal={Physical Review Research},
+    volume={3},
+    number={4},
+    pages={043101},
+    year={2021},
+    doi={10.1103/PhysRevResearch.3.043101},
+    url={https://doi.org/10.1103/PhysRevResearch.3.043101}
+  }
+
+keith2021priori: |
+  @article{keith2021priori,
+    title={A priori error analysis of high-order {LL*} ({FOSLL*}) finite element methods},
+    author={Keith, Brendan},
+    journal={Computers \& Mathematics with Applications},
+    volume={103},
+    pages={12--18},
+    year={2021},
+    doi={10.1016/j.camwa.2021.10.015},
+    url={https://doi.org/10.1016/j.camwa.2021.10.015}
+  }
+
+keith2021wind: |
+  @article{keith2021wind,
+    title={Learning the structure of wind: A data-driven nonlocal turbulence model for the atmospheric boundary layer},
+    author={Keith, Brendan and Khristenko, Ustim and Wohlmuth, Barbara},
+    journal={Physics of Fluids},
+    volume={33},
+    number={9},
+    pages={095110},
+    year={2021},
+    doi={10.1063/5.0064394},
+    url={https://doi.org/10.1063/5.0064394}
+  }
+
+keith2021fractional: |
+  @article{keith2021fractional,
+    title={A fractional {PDE} model for turbulent velocity fields near solid walls},
+    author={Keith, Brendan and Khristenko, Ustim and Wohlmuth, Barbara},
+    journal={Journal of Fluid Mechanics},
+    volume={916},
+    pages={A21},
+    year={2021},
+    doi={10.1017/jfm.2021.182},
+    url={https://doi.org/10.1017/jfm.2021.182}
+  }
+
+drzisga2020accelerating: |
+  @article{drzisga2020accelerating,
+    title={The surrogate matrix methodology: Accelerating isogeometric analysis of waves},
+    author={Drzisga, Daniel and Keith, Brendan and Wohlmuth, Barbara},
+    journal={Computer Methods in Applied Mechanics and Engineering},
+    volume={372},
+    pages={113322},
+    year={2020},
+    doi={10.1016/j.cma.2020.113322},
+    url={https://doi.org/10.1016/j.cma.2020.113322}
+  }
+
+demkowicz2020dpg: |
+  @article{demkowicz2020dpg,
+    title={The {DPG}-star method},
+    author={Demkowicz, Leszek and Gopalakrishnan, Jay and Keith, Brendan},
+    journal={Computers \& Mathematics with Applications},
+    volume={79},
+    number={11},
+    pages={3092--3116},
+    year={2020},
+    doi={10.1016/j.camwa.2020.01.012},
+    url={https://doi.org/10.1016/j.camwa.2020.01.012}
+  }
+
+drzisga2020reference: |
+  @article{drzisga2020reference,
+    title={The surrogate matrix methodology: A reference implementation for low-cost assembly in isogeometric analysis},
+    author={Drzisga, Daniel and Keith, Brendan and Wohlmuth, Barbara},
+    journal={MethodsX},
+    volume={7},
+    pages={100813},
+    year={2020},
+    doi={10.1016/j.mex.2020.100813},
+    url={https://doi.org/10.1016/j.mex.2020.100813}
+  }
+
+drzisga2020lowcost: |
+  @article{drzisga2020lowcost,
+    title={The surrogate matrix methodology: Low-cost assembly for isogeometric analysis},
+    author={Drzisga, Daniel and Keith, Brendan and Wohlmuth, Barbara},
+    journal={Computer Methods in Applied Mechanics and Engineering},
+    volume={361},
+    pages={112776},
+    year={2020},
+    doi={10.1016/j.cma.2019.112776},
+    url={https://doi.org/10.1016/j.cma.2019.112776}
+  }
+
+drzisga2019surrogate: |
+  @article{drzisga2019surrogate,
+    title={The Surrogate Matrix Methodology: A Priori Error Estimation},
+    author={Drzisga, Daniel and Keith, Brendan and Wohlmuth, Barbara},
+    journal={SIAM Journal on Scientific Computing},
+    volume={41},
+    number={6},
+    pages={A3806--A3838},
+    year={2019},
+    doi={10.1137/18M1226580},
+    url={https://doi.org/10.1137/18M1226580}
+  }
+
+keith2019goal: |
+  @article{keith2019goal,
+    title={Goal-Oriented Adaptive Mesh Refinement for Discontinuous {Petrov}--{Galerkin} Methods},
+    author={Keith, Brendan and Vaziri Astaneh, Ali and Demkowicz, Leszek F.},
+    journal={SIAM Journal on Numerical Analysis},
+    volume={57},
+    number={4},
+    pages={1649--1676},
+    year={2019},
+    doi={10.1137/18M1181754},
+    url={https://doi.org/10.1137/18M1181754}
+  }
+
+vaziriastaneh2019perfectly: |
+  @article{vaziriastaneh2019perfectly,
+    title={On perfectly matched layers for discontinuous {Petrov}--{Galerkin} methods},
+    author={Vaziri Astaneh, Ali and Keith, Brendan and Demkowicz, Leszek},
+    journal={Computational Mechanics},
+    volume={63},
+    number={6},
+    pages={1131--1145},
+    year={2019},
+    doi={10.1007/s00466-018-1640-3},
+    url={https://doi.org/10.1007/s00466-018-1640-3}
+  }
+
+keith2017discrete: |
+  @article{keith2017discrete,
+    title={Discrete least-squares finite element methods},
+    author={Keith, Brendan and Petrides, Socratis and Fuentes, Federico and Demkowicz, Leszek},
+    journal={Computer Methods in Applied Mechanics and Engineering},
+    volume={327},
+    pages={226--255},
+    year={2017},
+    doi={10.1016/j.cma.2017.08.043},
+    url={https://doi.org/10.1016/j.cma.2017.08.043}
+  }
+
+keith2017ultraweak: |
+  @article{keith2017ultraweak,
+    title={An ultraweak {DPG} method for viscoelastic fluids},
+    author={Keith, Brendan and Knechtges, Philipp and Roberts, Nathan V. and Elgeti, Stefanie and Behr, Marek and Demkowicz, Leszek},
+    journal={Journal of Non-Newtonian Fluid Mechanics},
+    volume={247},
+    pages={107--122},
+    year={2017},
+    doi={10.1016/j.jnnfm.2017.06.006},
+    url={https://doi.org/10.1016/j.jnnfm.2017.06.006}
+  }
+
+fuentes2017coupled: |
+  @article{fuentes2017coupled,
+    title={Coupled variational formulations of linear elasticity and the {DPG} methodology},
+    author={Fuentes, Federico and Keith, Brendan and Demkowicz, Leszek and Le Tallec, Patrick},
+    journal={Journal of Computational Physics},
+    volume={348},
+    pages={715--731},
+    year={2017},
+    doi={10.1016/j.jcp.2017.07.051},
+    url={https://doi.org/10.1016/j.jcp.2017.07.051}
+  }
+
+keith2016dpg: |
+  @article{keith2016dpg,
+    title={The {DPG} methodology applied to different variational formulations of linear elasticity},
+    author={Keith, Brendan and Fuentes, Federico and Demkowicz, Leszek},
+    journal={Computer Methods in Applied Mechanics and Engineering},
+    volume={309},
+    pages={579--609},
+    year={2016},
+    doi={10.1016/j.cma.2016.05.034},
+    url={https://doi.org/10.1016/j.cma.2016.05.034}
+  }
+
+fuentes2015orientation: |
+  @article{fuentes2015orientation,
+    title={Orientation embedded high order shape functions for the exact sequence elements of all shapes},
+    author={Fuentes, Federico and Keith, Brendan and Demkowicz, Leszek and Nagaraj, Sriram},
+    journal={Computers \& Mathematics with Applications},
+    volume={70},
+    number={4},
+    pages={353--458},
+    year={2015},
+    doi={10.1016/j.camwa.2015.04.027},
+    url={https://doi.org/10.1016/j.camwa.2015.04.027}
+  }
+
+izmailov2024drdmannturb: |
+  @article{izmailov2024drdmannturb,
+    title={{DRDMannTurb}: A {Python} package for scalable, data-driven synthetic turbulence},
+    author={Izmailov, Alexey and Meeker, Matthew and Deskos, Georgios and Keith, Brendan},
+    journal={Journal of Open Source Software},
+    volume={9},
+    number={102},
+    pages={6838},
+    year={2024},
+    doi={10.21105/joss.06838},
+    url={https://doi.org/10.21105/joss.06838}
+  }
+
+sit2024improving: |
+  @inproceedings{sit2024improving,
+    title={Improving Explainability of Softmax Classifiers Using a Prototype-Based Joint Embedding Method},
+    author={Sit, Hilarie and Keith, Brendan and Bergen, Karianne},
+    booktitle={IJCAI 2024 Workshop on Explainable Artificial Intelligence (XAI)},
+    year={2024},
+    eprint={2407.02271},
+    archivePrefix={arXiv},
+    url={https://arxiv.org/abs/2407.02271}
+  }
+
+yang2023multi: |
+  @inproceedings{yang2023multi,
+    title={Multi-Agent Reinforcement Learning for Adaptive Mesh Refinement},
+    author={Yang, Jiachen and Mittal, Ketan and Dzanic, Tarik and Petrides, Socratis and Keith, Brendan and Petersen, Brenden and Faissol, Daniel and Anderson, Robert},
+    booktitle={Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)},
+    pages={14--22},
+    publisher={International Foundation for Autonomous Agents and Multiagent Systems},
+    year={2023},
+    url={https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p14.pdf}
+  }
+
+keith2023technique: |
+  @article{keith2023technique,
+    title={The technique that can find a system's state through data alone},
+    author={Keith, Brendan},
+    journal={Nature},
+    volume={622},
+    number={7982},
+    pages={246--247},
+    year={2023},
+    doi={10.1038/d41586-023-03070-x},
+    url={https://doi.org/10.1038/d41586-023-03070-x}
+  }
+
+keith2018new: |
+  @phdthesis{keith2018new,
+    title={New ideas in adjoint methods for {PDEs}: A saddle-point paradigm for finite element analysis and its role in the {DPG} methodology},
+    author={Keith, Brendan},
+    school={The University of Texas at Austin},
+    year={2018},
+    url={http://hdl.handle.net/2152/68919}
+  }
+
+keith2017dpg: |
+  @techreport{keith2017dpg,
+    title={{DPG}* method},
+    author={Keith, Brendan and Demkowicz, Leszek and Gopalakrishnan, Jay},
+    institution={The Institute for Computational Engineering and Sciences, The University of Texas at Austin},
+    type={{ICES} Report},
+    number={17-25},
+    year={2017},
+    url={https://www.ices.utexas.edu/media/reports/2017/1725.pdf}
+  }
+
+keith2014lagrangian: |
+  @mastersthesis{keith2014lagrangian,
+    title={{Lagrangian} coherent structures in three-dimensional steady flows},
+    author={Keith, Brendan},
+    school={McGill University},
+    year={2014},
+    url={https://escholarship.mcgill.ca/concern/theses/xk81jq05j}
+  }
+
+robison2011wave: |
+  @article{robison2011wave,
+    title={The wave equation and multi-dimensional time},
+    author={Robison, Brendan K.},
+    journal={The Waterloo Mathematics Review},
+    volume={1},
+    number={1},
+    pages={32--42},
+    year={2011},
+    url={http://mathreview.uwaterloo.ca/archive/voli/1/robison.pdf}
+  }
+

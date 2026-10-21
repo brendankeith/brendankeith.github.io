@@ -24,8 +24,10 @@ Google Scholar itself blocks automated access, so it is not queried directly.
 Row template (one line, newest first):
 
 ```
-| <img src="/assets/images/<IMAGE>" width="200" alt="" align="center" style="display:block;margin-bottom:10px;margin-top:10px;margin-left:0px;margin-right:0px;padding-left:5px;padding-right:5px;" /> | **<Title in sentence case>** <br> _with <co-authors, Oxford comma, Brendan omitted>_ <br> arXiv: <ID> [<primary category>] [[preprint](https://arxiv.org/abs/<ID>)] |
+| <img src="/assets/images/<IMAGE>" width="200" alt="" align="center" style="display:block;margin-bottom:10px;margin-top:10px;margin-left:0px;margin-right:0px;padding-left:5px;padding-right:5px;" /> | **<Title in sentence case>** <br> _with <co-authors, Oxford comma, Brendan omitted>_ <br> arXiv: <ID> [<primary category>] [[preprint](https://arxiv.org/abs/<ID>)] <a href="#bibtex-<KEY>" class="bibtex-toggle" data-bibtex="<KEY>">[<span>BibTeX</span>]</a> |
 ```
+
+Add the matching entry to `_data/bibtex.yml` (see section 4).
 
 Choosing the image:
 1. Download the source: `https://arxiv.org/src/<ID>` (a gzipped tarball, occasionally a bare gzipped .tex).
@@ -47,10 +49,35 @@ Remove the row from Preprints and insert it in Peer-Reviewed, ordered by year
 <Full journal name> (<year>) [[preprint](https://arxiv.org/abs/<ID>)] [[journal doi](https://doi.org/<DOI>)]
 ```
 
+Keep the `[BibTeX]` toggle at the end of the cell, and replace the paper's `@misc` entry in
+`_data/bibtex.yml` with an `@article` built from the Crossref record (section 4). Keep the
+same key unless the year changed; if it did, rename the key in both files.
+
+The year is that of the printed volume; for online-first papers with no volume yet, use the
+online year and update it once the volume appears.
+
 Accepted-but-not-yet-online papers use `<Journal> (to appear, <year>)` and get the DOI later.
 Keep any existing `[[code]]` links.
 
-## 4. Deliver
+## 4. BibTeX entries
+
+Every row ends with a `[BibTeX]` toggle whose `data-bibtex` key names an entry in
+`_data/bibtex.yml` (a YAML block scalar per key). Build entries only from the arXiv API
+record or the Crossref record (`https://api.crossref.org/works/<DOI>`), never from memory.
+
+- Key: `<first author surname><year><first significant title word>`, lowercase ASCII
+  (e.g. `fu2026locally`); on a clash pick a later distinctive word.
+- Preprint: `@misc` with `title`, `author`, `year`, `eprint`, `archivePrefix={arXiv}`,
+  `primaryClass`, `doi={10.48550/arXiv.<ID>}`, `url`.
+- Journal article: `@article` with `title`, `author`, `journal`, `volume`, `number`, `pages`
+  (`--` ranges; article number if no range), `year` (volume/print year), `doi`, `url`.
+- Authors as `Family, Given and ...` with full given names (fill initials from arXiv);
+  accents as LaTeX (`J{\o}rgen`, `G{\"u}nther`); brace acronyms and proper nouns in
+  titles (`{Galerkin}`, `{SiMPL}`, `{PDE}`).
+- Check: every `data-bibtex` key on the page exists in the YAML, and the entries compile
+  (`\nocite{*}` + `bibtex`) without warnings.
+
+## 5. Deliver
 
 Open a pull request against `master` titled `Publications sync <YYYY-MM-DD>` listing each
 change and, for every new row, which figure was chosen and the runner-up. If nothing changed,
