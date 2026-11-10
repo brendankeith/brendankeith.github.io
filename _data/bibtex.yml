@@ -1,6 +1,18 @@
 # BibTeX entries for /publications/, keyed by the data-bibtex id used on that page.
 # Generated from Crossref / arXiv metadata; edit freely.
 
+keith2026remap: |
+  @misc{keith2026remap,
+    title={Remap for {ALE} Hydrodynamics via Direct Interpolation and Constraint Optimization},
+    author={Keith, Brendan and Kim, Dohyun and Lazarov, Boyan and Mittal, Ketan and Petra, Cosmin G. and Schmidt, Mathias R. and Tomov, Vladimir Z.},
+    year={2026},
+    eprint={2611.05327},
+    archivePrefix={arXiv},
+    primaryClass={math.NA},
+    doi={10.48550/arXiv.2611.05327},
+    url={https://arxiv.org/abs/2611.05327}
+  }
+
 keith2026analysis: |
   @misc{keith2026analysis,
     title={Analysis of {Bregman} Proximal Point for the Obstacle Problem},
